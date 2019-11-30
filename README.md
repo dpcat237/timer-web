@@ -1,6 +1,6 @@
 # timer-web
 
-> An UI for the Timer app
+> An UI for the Timer app. An example of simple Vue.js app
 
 ## Build setup
 
